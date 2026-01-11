@@ -17,45 +17,93 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
+- title: Swisscom
+  title-url: https://www.swisscom.ch/de/business/enterprise.html
+  date: Okt 2022 - Present
+  subtitle: Cloud Solution Architect for Enterprise Customers
   tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
-  timeline-side: right
-
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Azure Deployments
+    - tag: Architecture
+    - tag: Landingzones
+    - tag: FinOps
+    - tag: Strategie
+    - tag: Consulting
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Aveniq
+  title-url: https://aveniq.ch/
+  date: Jun 2021 - Sep 2022
+  subtitle: Product & Partner Manager Cloud Services
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Product Mgmt
+    - tag: Azure Cloud
+    - tag: Private Cloud
+    - tag: Portfolio Mgmt
+    - tag: Projekt Mgmt
+    - tag: Partner Mgmt
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: Avectris
+  title-url: https://aveniq.ch/
+  date: Jul 2015 - Mai 2021
+  subtitle: Product & Bid Manager Cloud Services
+  tags:
+    - tag: Product Mgmt
+    - tag: Infrastructure as a Service
+    - tag: Bid Mgmt
+    - tag: Build a Bid/Product-Application
+  timeline-side: right
+
+- title: Axpo Group
+  title-url: https://www.axpo.com/
+  date: Aug 2009 - Jun 2015
+  subtitle: Sales Service Manager
+  tags:
+    - tag: Offerings
+    - tag: Contracts
+    - tag: Benchmarks
+    - tag: Pricing/Costs
+  timeline-side: right
+
+- title: T-Systems Schweiz
+  title-url: https://www.t-systems.com/ch/de
+  date: Jan 2008 - Jul 2009
+  subtitle: Solution Consultant / Architect
+  tags:
+    - tag: Bids for Enterprise Customers
+    - tag: Architekcture
+    - tag: Projekt-Mgmt
+    - tag: Costs
+    - tag: SLAs
   timeline-side: left
+
+- title: Siemens Schweiz
+  title-url: https://www.siemens.com/ch/de.html
+  date: Dez 2000 - Dez 2007
+  subtitle: CTO / Architect / Projektleiter / Senior System Engineer
+  tags:
+    - tag: ICT-Architecture
+    - tag: ITSM & Tools for Operations
+    - tag: Processes (ITIL / ISO20000)
+    - tag: Projekt-Mgmt
+    - tag: Operations (Identity, Server, Storage)
+  timeline-side: right
+
+- title: HBT-ISOL AG
+  title-url: https://hbt-isol.com/
+  date: Dez 1994 - Nov 2000
+  subtitle: Head Informatik & Technologie
+  tags:
+    - tag: IT-Responsible (ERP, Infrastructure, Client)
+    - tag: Konstruktion
+    - tag: Structure-borne noise measurements
+  timeline-side: left
+
+- title: Soudronic AG
+  title-url: https://soudronic.com/
+  date: Aug 1989 - Nov 1994
+  subtitle: Konstrukteur
+  tags:
+    - tag: Lehre (4 Jahre)
+    - tag: Erfahrungsjahr
+  timeline-side: right
