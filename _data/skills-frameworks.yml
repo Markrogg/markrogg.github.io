@@ -5,29 +5,44 @@
 # - name: Framework
 #   weight: 5
 
-- name: Angular
+- name: Azure
   weight: 5
 
-- name: AngularJS
-  weight: 3
-
-- name: React
-  weight: 4
-
-- name: Node
+- name: AWS
   weight: 1
 
-- name: Flutter
-  weight: 2
-
-- name: Express
-  weight: 3
-
-- name: Django
+- name: ECS
   weight: 1
 
-- name: Spring
+- name: Multi Cloud
   weight: 2
 
-- name: Rails
+- name: Hybrid Cloud
   weight: 4
+
+- name: Cloud Landingzones
+  weight: 4
+
+- name: Zero Trust
+  weight: 3
+
+- name: Cloud Security
+  weight: 3
+
+- name: Migration
+  weight: 4
+
+- name: TOGAF
+  weight: 2
+
+- name: Network
+  weight: 4
+
+- name: Terraform
+  weight: 3
+
+- name: IaC
+  weight: 3
+
+- name: Blockchain
+  weight: 2

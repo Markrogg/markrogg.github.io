@@ -1,0 +1,8 @@
+Jakyll-Thema:
+https://github.com/longpdo/neumorphism?tab=readme-ov-file
+https://longpdo.github.io/neumorphism/
+
+Beispiel: https://drewj.la/
+
+Server start vom directory neumorphism:
+bundle exec jekyll serve
