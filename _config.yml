@@ -7,7 +7,7 @@ title: Markus Roggli
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/mro"
+baseurl: ""
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
@@ -88,7 +88,7 @@ contact_description:
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
 # Beispiel: longpdo/neumorphism
-repository: 
+repository: Markrogg/markrogg.github.io
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
